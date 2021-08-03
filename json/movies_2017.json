@@ -1,0 +1,62 @@
+
+[{
+        "title": "Star Wars: The Last Jedi",
+        "image": "https://dinhnguyenngoc.github.io/happycoding/json/movies/starwars.jpg",
+        "price": "₹ 160"
+    },
+{
+        "title": "Shape Of Water",
+        "image": "https://dinhnguyenngoc.github.io/happycoding/json/movies/shape_of_water.jpg",
+        "price": "₹ 130"
+    },
+    {
+        "title": "Baahubali: The Conclusion",
+        "image": "https://dinhnguyenngoc.github.io/happycoding/json/movies/baahubali2.jpg",
+        "price": "₹ 210"
+    },
+    {
+        "title": "Thor: The Ragnarok",
+        "image": "https://dinhnguyenngoc.github.io/happycoding/json/movies/thor_ragnarok.jpg",
+        "price": "₹ 170"
+    },
+    {
+        "title": "Justice League",
+        "image": "https://dinhnguyenngoc.github.io/happycoding/json/movies/justice_league.jpg",
+        "price": "₹ 120"
+    },
+    {
+        "title": "Coco",
+        "image": "https://dinhnguyenngoc.github.io/happycoding/json/movies/coco.jpg",
+        "price": "₹ 110"
+    },
+    {
+        "title": "Jumanji: Welcome To The Jungle",
+        "image": "https://dinhnguyenngoc.github.io/happycoding/json/movies/jumanji.jpg",
+        "price": "₹ 120"
+    },
+    {
+        "title": "Murder On The Orient Express",
+        "image": "https://dinhnguyenngoc.github.io/happycoding/json/movies/murder_on_express.jpg",
+        "price": "₹ 160"
+    },
+    {
+        "title": "Spider-Man: Homecoming",
+        "image": "https://dinhnguyenngoc.github.io/happycoding/json/movies/spiderman_homecoming.jpg",
+        "price": "₹ 190"
+    },
+    {
+        "title": "Ferdinand",
+        "image": "https://dinhnguyenngoc.github.io/happycoding/json/movies/ferdinand.jpg",
+        "price": "₹ 100"
+    },
+    {
+        "title": "The Disaster Artist",
+        "image": "https://dinhnguyenngoc.github.io/happycoding/json/movies/disaster_artist.jpg",
+        "price": "₹ 90"
+    },
+    {
+        "title": "Lady Bird",
+        "image": "https://dinhnguyenngoc.github.io/happycoding/json/movies/lady_bird.jpg",
+        "price": "₹ 80"
+    }
+    ]
